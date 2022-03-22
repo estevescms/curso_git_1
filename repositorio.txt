@@ -2,3 +2,5 @@ https://github.com/cod3rcursos/web-moderno
 
 
 https://github.com/estevescms/curso_git_1.git
+
+    color: red;git
