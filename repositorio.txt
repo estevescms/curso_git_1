@@ -3,5 +3,10 @@ https://github.com/cod3rcursos/web-moderno
 
 https://github.com/estevescms/curso_git_1.git
 
+<<<<<<< HEAD
 git branches
 
+=======
+git status
+2
+>>>>>>> teste_criacao
